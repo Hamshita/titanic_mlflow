@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hk97820/mlops/mlflow_titanic/mlruns/1/b319366846f9437e936e6f74f19203af/artifacts
+end_time: 1646195731659
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: b319366846f9437e936e6f74f19203af
+run_uuid: b319366846f9437e936e6f74f19203af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1646195722377
+status: 4
+tags: []
+user_id: HK97820
